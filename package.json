@@ -1,0 +1,26 @@
+{
+  "name": "parcel-vuejs-example",
+  "author": "https://github.com/notsafe",
+  "description": "Simple Vue.js example",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "parcel index.html --open"
+  },
+  "dependencies": {
+    "autoprefixer": "^8.4.1",
+    "node-sass": "^4.9.0",
+    "postcss-modules": "^1.1.0",
+    "postcss-sprites": "^4.2.1",
+    "vue": "^2.5.10",
+    "vue-hot-reload-api": "^2.3.0",
+    "vue-router": "^3.0.1",
+    "vuex": "^3.0.1"
+  },
+  "devDependencies": {
+    "@vue/component-compiler-utils": "^1.2.1",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-vue": "^2.0.0",
+    "parcel-bundler": "^1.2.0",
+    "vue-template-compiler": "^2.5.16"
+  }
+}
